@@ -1,4 +1,4 @@
-# codes-java
+# Java Repo
 My Java codes
 
-![./java-img.jpg](Java)
+![java-img.jpg](Java)
