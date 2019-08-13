@@ -1,4 +1,4 @@
 # Java Repo
 My Java codes
 
-![java-img.jpg](Java)
+![Java](https://github.com/gmpereir/codes-java/blob/master/java-img.jpg)
