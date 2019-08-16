@@ -11,11 +11,17 @@ public class IfElse_Flow {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Enter your name: ");
+        System.out.print("Enter your age: ");
 
-        String nome = input.nextLine();
+        int age = input.nextInt();
 
-        System.out.println("Hi " + nome + "nice to meet you!");
+        if (age < 0) {
+            System.out.println("Enter a valid age...");
+        } else if (age < 18) {
+            System.out.println("You are underage!");
+        } else if (age >= 18) {
+            System.out.println("You are overage");
+        }
 
     }
 
